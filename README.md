@@ -14,3 +14,6 @@ This script does best effort conversion and some elements may be lost
 7. Pick the chart you want, right click it and click "Export selected assets"
 8. After you got the JSON file, you need to run eh2ch: `python eh2ch.py [path to .json]`
 9. notes.chart should appear in the current directory, you can edit it and export with Moonscraper
+
+# Extracting song.wav
+Just filter assets by AudioClip type and find the song
