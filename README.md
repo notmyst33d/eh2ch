@@ -6,7 +6,7 @@ This script does best effort conversion and some elements may be lost
 
 # How to use
 1. Download [AssetStudio](https://github.com/aelurum/AssetStudio)
-2. Open Everhood_Data folder
+2. Open Everhood_Data folder in AssetStudio
 3. Go to Asset List
 4. Type "Chart" in the filter and sort by size
 5. Click on any entry with the EXACT name "Chart"
